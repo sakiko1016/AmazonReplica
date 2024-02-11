@@ -1,0 +1,81 @@
+h2 {
+    text-align: left;
+    margin: 10px;
+}
+
+section {
+    max-width: 500px;
+    margin: auto;
+}
+
+#continue {
+    text-align: center;
+    background-color:orange;
+    margin: 20px; 
+    border: 1px solid black;
+    border-radius: 2px;
+    width: 90%;
+}
+
+#help {
+    padding-left: 20px;
+    text-align: left;
+}
+
+input {
+    width: 90%;
+    background-color: white;
+    padding: 5px;
+    margin: 10px;
+    border: 1px solid black;
+    border-radius: 2px;      
+}
+
+label {  
+    padding: 5px;
+    margin: 10px;  
+    text-align: left;  
+}
+
+#email {
+    margin-bottom: 30px; 
+}
+
+textarea {
+        background-color: white;
+        border-width: 2px;
+        border-style: inset;
+        border-color: -internal-light-dark (rgb(118,118,118),rgb(133,133,133))
+}
+
+ form {
+    max-width: 400px;
+    padding: 5px;
+    background-color: white;
+    border: 1px solid lightgray;
+    border-radius: 5px;
+ }
+
+ #amazon {
+    text-align: center;
+    background-color: gray;
+    margin: 20px; 
+    border: 1px solid black;
+    border-radius: 2px;  
+}
+ p {
+    text-align: center;
+ }
+
+ button {
+    background-color: white;
+    color: black;
+    padding: 5px;
+    border-radius: 3px;
+    margin: 3px;
+    text-align: center;
+ }
+
+ footer {
+    text-align: center;
+ }
